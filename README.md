@@ -1,1 +1,1 @@
-# AmazpnClone
+# AmazonClone
